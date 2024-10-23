@@ -2,6 +2,8 @@
 
 This project focuses on integrating and optimizing clinical data from hospitals to develop a predictive model for heart failure, using a data science approach in the hospital environment. The work involves data acquisition, preprocessing, and building machine learning models, followed by the deployment of a dashboard and a web application for predictions.
 
+The original project was developed in Spanish but there is a copy of the report in English.
+
 ## Features
 - **Data Integration**: ETL processes to clean, transform, and integrate data from different sources (hospital data, patient data, heart failure datasets).
 - **Machine Learning Models**: Comparison and implementation of several models (Logistic Regression, Support Vector Machines, Decision Trees) for binary classification.
